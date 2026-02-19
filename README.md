@@ -53,7 +53,7 @@ Here are examples of the best model performance on these 10 classes:
 ```
 3. Open JupyterLab and follow the notebook
 
-NOTE: The dataset Food101 you have to download manually, it is not included in this repository. You can download it from thi [website](https://www.kaggle.com/datasets/dansbecker/food-101). Follow the notebook for futher instructions.
+NOTE: The dataset Food101 you have to download manually, it is not included in this repository. You can download it from this [website](https://www.kaggle.com/datasets/dansbecker/food-101). Follow the notebook for futher instructions.
 
 
 ## Additional Resources:
